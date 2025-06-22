@@ -1,4 +1,4 @@
-<h1 align="center">Fataa Kasyara</h1>
+## Fataa Kasyara - Developer and Cyber Security
 
 <p align="center">
   <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=fataakasyara&theme=gruvbox&hide_border=true&show_icons=true&count_private=true" />
