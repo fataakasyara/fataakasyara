@@ -1,7 +1,6 @@
 ## Fataa Kasyara - Developer and Cyber Security
 
 <p align="center">
-  <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=fataakasyara&theme=gruvbox&hide_border=true&show_icons=true&count_private=true" />
   <img alt="Streak Stats" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=fataakasyara&theme=gruvbox&hide_border=true" />
 </p>
 
