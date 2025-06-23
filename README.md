@@ -1,9 +1,14 @@
+<p align="center">
+  <img src="logo.png" />
+</p>
+
+
 ## Fataa Kasyara - Developer and Cyber Security  
 Portofolio : https://kasyara.pages.dev
 </br>
 Web3 Community : https://nolyx.sytes.net
 
-<img src="logo.png" />
+
 
 
 ---
