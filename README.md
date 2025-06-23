@@ -3,7 +3,7 @@ Portofolio : https://kasyara.pages.dev
 </br>
 Web3 Community : https://nolyx.sytes.net
 
-<img src="fataa.png" />
+<img src="logo.png" />
 
 
 ---
