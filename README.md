@@ -3,7 +3,7 @@
 </p>
 
 
-## Fataa Kasyara - Developer and Cyber Security  
+## Fataa Kasyara - Developer, Cyber Security, Mechatronics Engineer  
 Portofolio : https://kasyara.pages.dev
 </br>
 Web3 Community : https://nolyx.sytes.net
