@@ -3,9 +3,10 @@
 </p>
 
 
-## Fataa Kasyara - Developer, Cyber Security, Mechatronics Engineer  
+## Fataa Kasyara - Cyber Security & Mechatronics Engineer  
 Portofolio : https://kasyara.pages.dev
 </br>
+Robotic n IoT team : https://saturn.zone.id
 Web3 Community : https://nolyx.sytes.net
 
 
