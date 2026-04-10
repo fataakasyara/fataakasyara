@@ -3,13 +3,9 @@
 </p>
 
 
-## Fataa Kasyara - Cyber Security & Mechatronics Engineer  
+## THIS ACCOUNT UNACTIVE, NEW GITHUB @kasyaa / https://github.com/kasyara
 Portofolio : https://kasyara.pages.dev
 </br>
-
-Robotic n IoT team : https://saturn.zone.id
-</br>
-Web3 Community : https://nolyx.sytes.net
 
 
 
