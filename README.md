@@ -3,7 +3,7 @@
 </p>
 
 
-## THIS ACCOUNT UNACTIVE, NEW GITHUB @kasyaa / https://github.com/kasyara
+## THIS ACCOUNT UNACTIVE, NEW GITHUB @kasyara or https://github.com/kasyara
 Portofolio : https://kasyara.pages.dev
 </br>
 
